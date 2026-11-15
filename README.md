@@ -1,16 +1,19 @@
 ## Hi, I'm Mahdi Ben Ali 👋
 
-Full-stack engineer & AI automation builder. I ship complete systems — IoT platforms, AI content factories, reliability-hardened scrapers and quant research frameworks — designed to survive contact with production.
+Full-stack engineer & AI automation builder based in Tunis. I ship complete systems — production scrapers, SEO auditing platforms, gamified web apps and quantitative research frameworks — with tests and CI in the repo, not just a demo.
 
-### 🚀 Flagship projects
+### 🚀 Public work
 
 | Project | What it is | Stack |
 |---|---|---|
-| [beehive-monitor](https://github.com/mahdiibenali/beehive-monitor) | Full-stack apiary monitoring platform: IoT telemetry, RBAC, audit trail, mobile app — my engineering graduation project | Next.js 15 · MongoDB · Expo |
-| [yt-shorts-engine](https://github.com/mahdiibenali/yt-shorts-engine) | Automated YouTube Shorts factory powering real channels: script → TTS → captions → render → upload | Python · FastAPI · MoviePy |
-| [questup](https://github.com/mahdiibenali/questup) | Gamified habit SaaS where Claude verifies proof-of-work photos and XP scales with confidence | Next.js 14 · tRPC v11 · Prisma |
-| [job-pipeline](https://github.com/mahdiibenali/job-pipeline) | Unattended job-lead scraper: circuit breakers, budget guards, durable state machine, CDP anti-detection | Python · Playwright · SQLite |
-| [quantdesk](https://github.com/mahdiibenali/quantdesk) | Phase-gated algo-trading research desk with walk-forward overfit detection and hard live-mode gating | Python · MetaTrader 5 |
+| [seo-scout](https://github.com/mahdiibenali/seo-scout) | Forensic SEO audit platform: 33 on-page checks across 5 categories, `file:line:col` evidence and client-ready reports. Python engine + Next.js dashboard, 172 tests | Playwright · Pydantic · Next.js · TypeScript |
+| [job-pipeline](https://github.com/mahdiibenali/job-pipeline) | Unattended job-lead scraper: circuit breakers, budget guards, durable state machine, CDP browser attach. 56 tests, strict mypy | Python · Playwright · SQLite |
+| [questup](https://github.com/mahdiibenali/questup) | Gamified habit platform where Claude verifies proof-of-work photos and XP scales with verification confidence. 56 unit tests | Next.js · tRPC · Prisma · Expo |
+| [quantdesk](https://github.com/mahdiibenali/quantdesk) | Phase-gated algorithmic-trading research desk: realistic cost model, walk-forward overfit detection, pre-registered promotion criteria and a risk engine with veto power | Python · MetaTrader 5 · NumPy |
+
+### 🐝 Client work (NDA)
+
+I designed and built an IoT apiary-monitoring platform — sensor telemetry, RBAC, audit trail, mobile app — for a beekeeping operator. It runs on real hives; the code stays private under NDA.
 
 ### 🛠️ Stack
 
@@ -20,6 +23,6 @@ Full-stack engineer & AI automation builder. I ship complete systems — IoT pla
 
 Honest out-of-sample validation, human-in-the-loop AI, systems that degrade gracefully instead of dying — and READMEs that tell the truth.
 
-<!--
-📫 Reach me via LinkedIn.
--->
+### 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/mahdi-ben-ali) · [Portfolio](https://mahdi-portfolio-snowy-kappa.vercel.app) · [mahdibenali4417@gmail.com](mailto:mahdibenali4417@gmail.com)
